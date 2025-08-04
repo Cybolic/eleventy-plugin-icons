@@ -3,6 +3,10 @@
 [![Eleventy](https://img.shields.io/badge/Eleventy-3.0.0-333333.svg?style=flat-square)](https://11ty.dev)
 [![](https://img.shields.io/npm/v/eleventy-plugin-icons?style=flat-square&color=red)](https://npmjs.com/package/eleventy-plugin-icons)
 
+> [!NOTE]
+> This fork only adds the option to define both `sources` and `icons` in the `sprite.extraIcons` option.
+> The current upstream have those options as mutually exclusive.
+
 Add icons to your Eleventy site, made easy.
 
 Turn an [11ty shortcode](https://www.11ty.dev/docs/shortcodes/) like this:
